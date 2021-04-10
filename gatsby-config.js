@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Feministinen kalenteri`,
-    description: `Kalenteri, johon kerätään merkkipäiviä, joiden musitaminen voi olla hyösyllsitä.`,
-    author: ``,
+    description: `Kalenteri, johon kerätään virallisia ja epävirallisia merkkipäiviä.`,
+    author: `Tintti Rahikainen`,
   },
   plugins: [
     `gatsby-plugin-sass`,
